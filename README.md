@@ -1,1 +1,2 @@
-[![UntrustableRus' github stats](https://github-readme-stats.vercel.app/api?username=UntrustableRus)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=UntrustableRus)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UntrustableRus)](https://github.com/anuraghazra/github-readme-stats)
