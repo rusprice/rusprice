@@ -16,6 +16,9 @@ I'm a frontend website developer and I also know node.js, but I'm not that good 
 <a><img align="center" height="50" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a>
 <a><img align="center" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></a>
 <a><img align="center" height="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></a> 
+<a><img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></a> 
+<a><img align="center" height="50" src="https://cdn.glitch.com/project-avatar/6af25185-21ca-409e-856b-85e42493af1b.png?2018-08-15T15:12:02.909Z"></a> 
+<a><img align="center" height="50" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1478792253/gnlwek2zwhq369yryrzv.jpg"></a> 
 
 ### Stats
 [![Statistics](https://github-readme-stats.vercel.app/api?username=UntrustableRus)](https://github.com/anuraghazra/github-readme-stats)
