@@ -10,10 +10,10 @@ I'm a frontend website developer and I also know node.js, but I'm not that good 
 
 ### Languages & Tools
 
-<a><img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a><img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
+<a><img align="center" height="20" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></a>
+<a><img align="center" height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a>
 <a><img align="center" height="20" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></a>
-<a><img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
+<a><img align="center" height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></a> 
 
 ### Stats
 [![Statistics](https://github-readme-stats.vercel.app/api?username=UntrustableRus)](https://github.com/anuraghazra/github-readme-stats)
