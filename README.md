@@ -12,6 +12,7 @@ I'm a frontend website developer and I also know node.js, but I'm not that good 
 
 <a><img align="center" height="50" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></a>
 <a><img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></a>
+<a><img align="center" height="50" src="https://miro.medium.com/max/1366/1*HFYKWq92BcXJIdata7d-JQ.png"></a>
 <a><img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
 <a><img align="center" height="50" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a>
 <a><img align="center" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></a>
