@@ -3,8 +3,6 @@
 I'm a frontend website developer and I also know node.js, but I'm not that good using databases and the works.
 
 ### Projects
-- [[#]](https://kaverti.com) Kaverti, a free-speech roblox alternative
-   - Position: Executive, doing a little bit of everything.
 - [[#]](https://tetretalk.com) Tetretalk, an HTML5 game portal.
    - Position: Founder and Site Developer
 
