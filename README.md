@@ -1,6 +1,6 @@
 ## Hello, I am Rus!
 
-I'm a frontend website developer and I also know node.js, but I'm not that good using databases and the works.
+I'm a fullstack website developer (loving express, mongo, vue, and redis)
 
 ### Projects
 - N/A
