@@ -3,7 +3,7 @@ Here's some information about me.
 ## Reverse Engineer
 I am a reverse engineer/white-hat hacker. I've reversed engineered quite a few companies:
 ### Chrome (Medium Vulnerability)
-#### Chrome is a browser used by over 3 million people worldwide.
+#### Chrome is a browser used by over 3 billion people worldwide.
 Unfortunately, the vulnerability is classified as it still exists. I'll update this when Chrome releases the vulnerability publicly.
 ### Roblox/Trello (Admin Panel Pictures)
 #### Roblox is a 3D gaming platform used by millions of players each day.
