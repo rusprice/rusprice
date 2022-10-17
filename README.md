@@ -20,7 +20,7 @@ I was able to use the source maps of Blooket's admin panel to get one running lo
 ### VocabularySpellingCity (XSS)
 #### VocabularySpellingCity was a learning website for teachers to assign to students. It allowed students to use the site to play games with the words that the teacher assigns.
 They forgot to sanitize inputs, so I was able to create a spelling set on their website will script tags and stuff like that, which would then show up on one of their pages as "recently created"
-### Clouthub (Access to millions of user's data)
+### Clouthub (Access to millions of users' data)
 #### Clouthub is an alt-right social media platform that promotes free speech, serving as a safe haven from censorship on other social platforms.
 I was able to change any and all data about my account, including verified status. I was able to set my account to be verified, set my account as a founder, and more. In addition, I was able to access the personal information of any user on the platform. I could see phone numbers, emails and more. If I was in bad faith, I could have mined all of this information and sold it on BreachForums, but of course I did the right thing and reported the vulnerability to the company. There are some more minor vulnerabiities that still exist on the site, but they are so minor I haven't bothered to report them.
 ### Prodigy Math Game (Privilage Escalation)
