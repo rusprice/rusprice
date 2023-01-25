@@ -2,6 +2,8 @@
 Here's some information about me.
 ## Reverse Engineer
 I am a reverse engineer/white-hat hacker. I've reversed engineered quite a few companies:
+### HQ Trivia (Major Vulnerability)
+From 1/13/23 to [finish soon]
 ### Chrome (Medium Vulnerability)
 #### Chrome is a browser used by over 3 billion people worldwide.
 Unfortunately, the vulnerability is classified as it still exists. I'll update this when Chrome releases the vulnerability publicly.
