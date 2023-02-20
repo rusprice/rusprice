@@ -2,8 +2,12 @@
 Here's some information about me.
 ## Reverse Engineer
 I am a reverse engineer/white-hat hacker. I've reversed engineered quite a few companies:
-### HQ Trivia (Major Vulnerability)
-From 1/13/23 to [finish soon]
+### HQ Trivia (Admin Panel Experience & Major Vulnerability)
+#### HQ Trivia is a live mobile game show app, where every Thursday if you answer 12 questions presented by a live host correctly, you will split the cash prize with the other winners.
+##### Major Vulnerability (January 2023)
+I took over the HQ Trivia app for 10 days and gave away $50 in live shows. I'm working on a medium article about this and it will be available soon.
+##### Admin Panel Experience (October 2022)
+I was able to use the source maps of HQ Trivia's admin panel to get one running locally. I was able to see what all of the menus looked like and everything, however, I did not have a user account or anything, so I coudln't exactly see or do anything special, asides from seeing what the admin panel looks like.
 ### Chrome (Medium Vulnerability)
 #### Chrome is a browser used by over 3 billion people worldwide.
 Unfortunately, the vulnerability is classified as it still exists. I'll update this when Chrome releases the vulnerability publicly.
@@ -13,9 +17,6 @@ I was able to exploit a vulnerability with Trello that allowed everyone to see p
 ### World2Build (Major Vulnerability)
 #### World2Build is a 3D sandbox similar to Roblox, but does not have as many players.
 Unfortunately, the vulnerability is classified as it still exists. I'll update this when it's patched.
-### HQ Trivia (Admin Panel Experience)
-#### HQ Trivia is a live mobile game show app, where every Thursday if you answer 12 questions presented by a live host correctly, you will split the cash prize with the other winners.
-I was able to use the source maps of HQ Trivia's admin panel to get one running locally. I was able to see what all of the menus looked like and everything, however, I did not have a user account or anything, so I coudln't exactly see or do anything special, asides from seeing what the admin panel looks like.
 ### Blooket (Admin Panel Experience)
 #### Blooket is a live game played in school for studying, similar to GimKit and Kahoot, among others.
 I was able to use the source maps of Blooket's admin panel to get one running locally. I was able to see what all of the menus looked like and everything, however, I did not have a user account or anything, so I coudln't exactly see or do anything special, asides from seeing what the admin panel looks like. *(Yes, this is the same exact thing I did for HQ Trivia)*
